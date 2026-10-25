@@ -1,0 +1,3 @@
+version=1.9.6
+url=https://github.com/moon-ctrl-givemetheusernamenow/versioncheckerthing/new/main
+changelog=Fixed rig spaz head sync; added fake update screen; added version checker
